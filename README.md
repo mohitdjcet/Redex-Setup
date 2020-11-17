@@ -1,3 +1,4 @@
+to better view click edit of README.md
 # --> Index.js
 
 import React from 'react';
@@ -214,6 +215,6 @@ const mapDispatchToProps = (dispatch) => {
 export default connect(mapStateToProps,mapDispatchToProps)(Reset)
 
 
-Final -- > then go to Reset/index.js
+# -- > Final -- > then go to Reset/index.js
 
 used like this.props.confirmErrMessage
